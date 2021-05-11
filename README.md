@@ -1,4 +1,4 @@
-# Upcloud-internship-taskl
+# Upcloud-internship-task
 Upcloud Internship Task
 ---
 ##### Run the server on localhost:3000
