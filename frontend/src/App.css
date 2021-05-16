@@ -1,0 +1,21 @@
+.main {
+    height: 100vh;
+    width: 100%;
+    z-index: -10;
+    }
+.searchcard{
+    margin-top: -730px;
+    
+}
+.navlink1{
+    margin-left: 700px !important;
+}
+.navlink1 ,.navlink2, .navlink3{
+    margin-left: 85px;
+    color: black;
+}
+
+.searchbar{
+    border-radius: 14px ;
+   
+}
